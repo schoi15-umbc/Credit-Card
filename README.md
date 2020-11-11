@@ -10,8 +10,9 @@
 
 
 ## **Overview**
-This project is to see i
 
+What is the data available to solve this business problem? Why do you think that this dataset can answer the problem at hand? Have you made enough research on the problem and the dataset?
+  
 <pre>
 Executive Code  :
 Presentation    : 
@@ -20,7 +21,8 @@ YouTube Presentation:
 
 ## **Goals**
 1. Data Preparation     : Cleaning data, and creating visualizations for deeper understanding of the dataset. 
-2. Classification Model : Logistic regression model and Decision Tree model used and evaluated to find the highest accuracy in predicting diabetes. 
+2. Clustering 
+3. Business Problem
 
 ## **Motivation and Background**
 
