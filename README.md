@@ -1,4 +1,4 @@
-# Credit-Card
+# Credit-Card Clustering
 
 ![Secret-History-of-the-Credit-Card](https://user-images.githubusercontent.com/70929605/99215177-30afa480-27a0-11eb-8e5c-7851cd74dd76.jpg)
 
@@ -61,10 +61,6 @@ Language/Tool: Python (Anaconda)
 Libraries: pandas, seaborn, numpy, matplotlib, sklearn, scipy
 </pre>
 
-<pre>
-Related Studies
-
-</pre>
 
 <pre>
 Contributors : <a href=https://github.com/schoi15-umbc>Sooyeon Choi</a>
