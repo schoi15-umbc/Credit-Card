@@ -11,18 +11,16 @@
 
 ## **Overview**
 
-What is the data available to solve this business problem? Why do you think that this dataset can answer the problem at hand? Have you made enough research on the problem and the dataset?
+K bank in DC is trying to create a new credit card for their bank. The new credit card is geared to sell to new and existing customers, but the bank wants to make more benefits for existing customers. In order to find out the best benefit program for their new credit card, the bank has hired me to categorize the customers by clustering them. K bank provided me with a dataset that contains data on how the customer uses their bank account. By using Kmeans method, I will attempt to figure out how to cluster the customers along with finding the average of each features for better understanding of the groups.
   
 <pre>
-Executive Code  :
-Presentation    : 
-YouTube Presentation: 
+Executive Code  :https://github.com/schoi15-umbc/Credit-Card/blob/main/Credit%20Card%20_Report.ipynb
 </pre>
 
 ## **Goals**
 1. Data Preparation     : Cleaning data, and creating visualizations for deeper understanding of the dataset. 
-2. Clustering 
-3. Business Problem
+2. Clustering           : Using K means and PCA to cluster the given data
+3. Business Problem     : Finding best suggestion for promotion paln according to the differnt usage behavior of customers. 
 
 ## **Motivation and Background**
 
@@ -69,5 +67,5 @@ Contributors : <a href=https://github.com/schoi15-umbc>Sooyeon Choi</a>
 
 <pre>
 Duration     : November 2020
-Last Update  : 2020
+Last Update  : November 15 2020
 </pre>
