@@ -1,5 +1,8 @@
 # Credit-Card
 
+![Secret-History-of-the-Credit-Card](https://user-images.githubusercontent.com/70929605/99215177-30afa480-27a0-11eb-8e5c-7851cd74dd76.jpg)
+
+
 ## **Table of Content**
 
 [Overview](https://github.com/schoi15-umbc/Credit-Card#overview)-
@@ -11,7 +14,7 @@
 
 ## **Overview**
 
-K bank in DC is trying to create a new credit card for their bank. The new credit card is geared to sell to new and existing customers, but the bank wants to make more benefits for existing customers. In order to find out the best benefit program for their new credit card, the bank has hired me to categorize the customers by clustering them. K bank provided me with a dataset that contains data on how the customer uses their bank account. By using Kmeans method, I will attempt to figure out how to cluster the customers along with finding the average of each features for better understanding of the groups.
+This project's goal is to help K bank with their promotion plan and goes step by step from Data Cleaning, Exploratory Data Analysis (Visualization & Correlation), Modeling & Evaluation, and conclusion. In data cleaning, I try to find missing values and outliers, in EDA I have included basic information about the dataset being used along with several visualizations for better understanding. In modeling and evaluation, KMeans and PCA are used to cluster the customers into 4 different groups, and each groups' spending behavior is explained to find the best promotion plan for K bank.
   
 <pre>
 Executive Code  :  <a href=https://github.com/schoi15-umbc/Credit-Card/blob/main/Credit%20Card%20_Report.ipynb>Executive Notebook </a> </a>
@@ -23,6 +26,8 @@ Executive Code  :  <a href=https://github.com/schoi15-umbc/Credit-Card/blob/main
 3. Business Problem     : Finding best suggestion for promotion paln according to the differnt usage behavior of customers. 
 
 ## **Motivation and Background**
+
+K bank in DC is trying to create a new credit card for their bank. The new credit card is geared to sell to new and existing customers, but the bank wants to make more benefits for existing customers. In order to find out the best benefit program for their new credit card, the bank has hired me to categorize the customers by clustering them. K bank provided me with a dataset that contains data on how the customer uses their bank account. By using Kmeans method, I will attempt to figure out how to cluster the customers along with finding the average of each features for better understanding of the groups.
 
 ## **Data**
 The dataset is obtained from [Kaggle (Credit Card dataset)](https://www.kaggle.com/arjunbhasin2013/ccdata). It includes 8950 observations, each representing an individual. 
