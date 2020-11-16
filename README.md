@@ -14,7 +14,7 @@
 K bank in DC is trying to create a new credit card for their bank. The new credit card is geared to sell to new and existing customers, but the bank wants to make more benefits for existing customers. In order to find out the best benefit program for their new credit card, the bank has hired me to categorize the customers by clustering them. K bank provided me with a dataset that contains data on how the customer uses their bank account. By using Kmeans method, I will attempt to figure out how to cluster the customers along with finding the average of each features for better understanding of the groups.
   
 <pre>
-Executive Code  :https://github.com/schoi15-umbc/Credit-Card/blob/main/Credit%20Card%20_Report.ipynb
+Executive Code  :  <a href=https://github.com/schoi15-umbc/Credit-Card/blob/main/Credit%20Card%20_Report.ipynb>Executive Notebook </a> </a>
 </pre>
 
 ## **Goals**
